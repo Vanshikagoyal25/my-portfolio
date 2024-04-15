@@ -1,6 +1,5 @@
 {
-  "homepage": "https://thakshila-bandara.github.io/my-portfolio",
-  "name": "my-portfolio-react",
+  "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
