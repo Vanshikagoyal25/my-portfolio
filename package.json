@@ -1,6 +1,10 @@
 {
+<<<<<<< HEAD
   "homepage": "https://thakshila-bandara.github.io/my-portfolio",
   "name": "my-portfolio-react",
+=======
+  "name": "my-portfolio",
+>>>>>>> 376d3add849bbc422aaa57aa95726ccc718626e1
   "version": "0.1.0",
   "private": true,
   "dependencies": {
